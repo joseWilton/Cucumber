@@ -1,4 +1,4 @@
-#langague:pt
+#Langague:pt
 
 Funcionalidade: Qual é o prato do dia
     Queremos saber qual o prato do dia na capital paulista
